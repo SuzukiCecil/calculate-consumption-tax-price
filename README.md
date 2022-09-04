@@ -1,1 +1,1 @@
-# calcurate-consumption-tax-price
+# calculate-consumption-tax-price

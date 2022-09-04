@@ -1,11 +1,11 @@
 {
-    "name": "suzuki-cecil/calcurate-consumption-tax-price",
-    "description": "calcurate consumption tax price",
+    "name": "suzuki-cecil/calculate-consumption-tax-price",
+    "description": "calculate consumption tax price",
     "type": "library",
     "license": "proprietary",
     "autoload": {
         "psr-4": {
-            "SuzukiCecil\\CalcurateConsumptionTaxPrice\\": "src/"
+            "SuzukiCecil\\CalculateConsumptionTaxPrice\\": "src/"
         }
     },
     "authors": [
