@@ -8,7 +8,7 @@ class ForthConsumptionTax implements ConsumptionTax
 {
     private const START = "2019-10-01";
     private const END = null;
-    private const TAX_RATE = 8;
+    private const TAX_RATE = 10;
 
     public static function canApply(DateTimeImmutable $date): bool
     {
