@@ -1,0 +1,18 @@
+{
+    "name": "suzuki-cecil/calcurate-consumption-tax-price",
+    "description": "calcurate consumption tax price",
+    "type": "library",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "SuzukiCecil\\CalcurateConsumptionTaxPrice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SuzukiCecil",
+            "email": "xxxkiosk.engineer@gmail.com"
+        }
+    ],
+    "require": {}
+}
